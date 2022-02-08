@@ -1,0 +1,7 @@
+pages/CartPage.class
+pages/CheckoutPage.class
+util/ExtentReportListener.class
+pages/ForumsPage.class
+pages/HomePage.class
+pages/BasePage.class
+pages/LoginPage.class
