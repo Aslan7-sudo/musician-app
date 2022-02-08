@@ -70,37 +70,19 @@ jobs:
         mvn -B package --file pom.xml
     - name: Send mail
       if: always()
-      uses: dawidd6/action-send-mail@v3
+      uses: dawidd6/action-send-mail@v2
       with:
-        # Required mail server address:
+        # mail server settings
         server_address: smtp.gmail.com
-        # Required mail server port:
         server_port: 465
-        # Optional (recommended): mail server username:
-        username: itsdragonfly7
-        # Optional (recommended) mail server password:
-        password: Aslan4455
-        # Required mail subject:
-        subject: Github Actions job result
-        # Required recipients' addresses:
+        # user credentials
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        # email subject
+        subject: ${{ github.job }} job of ${{ github.repository }} has ${{ job.status }}
+        # email body as text
+        body: ${{ github.job }} job in worflow ${{ github.workflow }} of ${{ github.repository }} has ${{ job.status }}
+        # comma-separated string, send email to
         to: nikhilmanthineedi@gmail.com
-        # Required sender full name (address can be skipped):
-        from: itsdragonfly7@gmail.com
-#         from: Nikhil MAnthineedi # <user@example.com>
-        # Optional whether this connection use TLS (default is true if server_port is 465)
-        secure: true
-        # Optional plain body:
-        body: Build job of ${{github.repository}} completed successfully!
-        # Optional HTML body read from file:
-        # Optional carbon copy recipients:
-        cc: svsschaitanya@gmail.com
-        # Optional blind carbon copy recipients:
-        # Optional recipient of the email response:
-        # Optional unsigned/invalid certificates allowance:
-        ignore_cert: true
-        # Optional converting Markdown to HTML (set content_type to text/html too):
-        convert_markdown: true
-        # Optional attachments:
-        attachments: .\Tests\Screenshots\*.png
-        # Optional priority: 'high', 'normal' (default) or 'low'
-        priority: low    
+        # from email name
+        from: Nikhil 
