@@ -65,11 +65,11 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
+      continue-on-error: true
       run: |
         cd Tests
         mvn -B package --file pom.xml
     - name: Send mail
-      continue-on-error: true
       uses: dawidd6/action-send-mail@v3
       with:
         # Required mail server address:
