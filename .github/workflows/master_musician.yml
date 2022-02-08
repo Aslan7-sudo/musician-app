@@ -67,4 +67,5 @@ jobs:
     - name: Build with Maven
       run: |
         cd Tests
+        cd
         mvn -B package --file pom.xml
