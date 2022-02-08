@@ -1,0 +1,929 @@
+2022-01-25 11:50:55 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 11:50:55 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 11:51:02 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 11:51:03 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 11:51:09 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 11:51:09 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 11:51:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:10 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 11:51:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:10 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 11:51:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:13 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 11:51:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:14 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 11:51:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:15 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 11:51:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:15 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 11:51:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 11:51:16 FATAL Log4j:41 - element click intercepted: Element <a class="nav-link dropdown-toggle" href="#" id="changePasswordDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1495, 27). Other element would receive the click: <div id="menugroupform" class="modal show" role="dialog" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49840}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 903dc5333737fdf0b7a5990d755bd7ef
+2022-01-25 11:51:16 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 11:51:18 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 11:51:18 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 11:51:19 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 11:51:19 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:49:25 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:49:25 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:49:27 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:49:27 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:49:35 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:49:35 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:49:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:35 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:49:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:36 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:49:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:39 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:49:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:39 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:49:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:49:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:49:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:49:43 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: chkIsFoodAtWorkGroup
+2022-01-25 12:50:03 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: chkIsFoodAtWorkGroup (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dc5e515360cdbe6d7ab739c9cecd10b8
+2022-01-25 12:50:03 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:50:04 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:50:04 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:50:05 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:50:05 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:51:24 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:51:24 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:51:27 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:51:27 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:51:34 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:51:34 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:51:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:35 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:51:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:35 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:51:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:38 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:51:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:39 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:51:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:51:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:51:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:51:46 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: chkIsFoodAtWorkGroup
+2022-01-25 12:52:07 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: chkIsFoodAtWorkGroup (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51415}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: af55f779267f29992b73321fc4430d97
+2022-01-25 12:52:07 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:52:07 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:52:07 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:52:07 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:52:07 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:53:40 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:53:40 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:53:42 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:53:42 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:53:49 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:53:49 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:53:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:50 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:53:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:50 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:53:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:52 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:53:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:53 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:53:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:54 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:53:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:53:54 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:54:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:54:00 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 12:54:05 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: chkIsFoodAtWorkGroup
+2022-01-25 12:54:25 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: chkIsFoodAtWorkGroup (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51474}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 061129cbc8cb3083e365803b8f53edae
+2022-01-25 12:54:25 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:54:26 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:54:26 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:54:26 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:54:26 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:55:50 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:55:50 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:55:53 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:55:53 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:56:00 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:56:00 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:56:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:01 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:56:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:01 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:56:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:04 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:56:04 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:04 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:56:05 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:05 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:56:06 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:06 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:56:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:56:11 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 12:56:26 FATAL Log4j:41 - no such element: Unable to locate element: {"method":"css selector","selector":"#name"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51545}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 909d8fca14e03fd952b41174ba77cdb3
+*** Element info: {Using=id, value=name}
+2022-01-25 12:56:26 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:56:27 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:56:27 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:56:27 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:56:27 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:57:03 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:57:03 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:57:06 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:57:06 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:57:13 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:57:13 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:57:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:14 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:57:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:14 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:57:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:17 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:57:17 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:17 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:57:17 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:18 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:57:18 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:18 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:57:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:57:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 12:57:38 FATAL Log4j:41 - no such element: Unable to locate element: {"method":"css selector","selector":"#name"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51610}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 21d9f76d45988877d1c358d993f3d791
+*** Element info: {Using=id, value=name}
+2022-01-25 12:57:38 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:57:39 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:57:39 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:57:39 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:57:39 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 12:58:43 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 12:58:43 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 12:58:46 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 12:58:46 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 12:58:53 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:58:53 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 12:58:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:54 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 12:58:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:54 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 12:58:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:57 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 12:58:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:57 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 12:58:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:59 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 12:58:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:58:59 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 12:59:04 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:59:04 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 12:59:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 12:59:09 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 12:59:09 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: chkIsFoodAtWorkGroup
+2022-01-25 12:59:30 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: chkIsFoodAtWorkGroup (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a60d96cd5ce55224dde67b2e38f65738
+2022-01-25 12:59:30 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 12:59:31 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 12:59:31 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 12:59:31 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 12:59:31 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:02:59 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:02:59 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:03:01 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 13:03:01 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:03:08 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:03:08 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:03:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:09 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:03:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:09 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:03:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:12 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:03:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:12 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:03:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:13 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 13:03:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:14 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 13:03:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:19 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 13:03:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:03:24 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 13:03:24 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/div/div[1]/div/div[5]/label/input
+2022-01-25 13:03:45 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/div/div[1]/div/div[5]/label/input (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51982}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 485abe9802f4b051d32f9665604ec1d9
+2022-01-25 13:03:45 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:03:45 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:03:45 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:03:45 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:03:45 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:05:07 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:05:07 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:05:10 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 13:05:10 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:05:18 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:05:18 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:05:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:19 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:05:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:19 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:05:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:05:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:23 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:05:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:24 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 13:05:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:24 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 13:05:30 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:30 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 13:05:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:05:35 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 13:05:40 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/div/div[1]/div/div[5]/label/input
+2022-01-25 13:06:00 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/div/div[1]/div/div[5]/label/input (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52132}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ac5e1847ac8ad82e0f2b98d076463a7
+2022-01-25 13:06:00 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:06:01 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:06:01 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:06:01 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:06:01 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:13:09 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:13:09 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:13:12 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:13:12 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:13:19 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:13:19 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:13:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:20 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:13:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:20 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:13:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:13:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:23 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:13:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:25 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:13:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:25 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:13:30 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:30 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 13:13:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:13:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:46 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:13:51 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:13:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:51 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:13:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:13:56 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:13:56 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:13:56 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:13:56 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:13:56 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:14:21 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:14:21 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:14:24 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:14:24 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:14:30 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:14:30 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:14:30 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:30 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:30 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:14:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:31 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:14:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:34 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:14:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:34 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:14:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:36 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:14:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:36 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:14:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:41 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 13:14:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:51 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:14:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:14:57 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:15:02 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:15:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:15:02 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:15:05 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:15:26 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: //a[contains(text(),'Logout')] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51180}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9018399848f02ae47c155d2ce97e4562
+2022-01-25 13:15:26 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:15:26 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:15:26 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:15:26 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:15:26 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:16:40 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:16:40 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:16:42 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:16:42 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:16:49 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:16:49 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:16:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:50 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:16:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:50 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:16:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:52 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:16:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:53 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:16:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:16:53 INFO  Log4j:26 - Waiting for the element : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:17:08 FATAL Log4j:41 - element not interactable
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51355}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2177e64802edf19da2aa1cf2dcfb248d
+2022-01-25 13:17:08 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:17:09 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:17:09 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:17:09 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:17:09 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:17:30 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:17:30 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:17:32 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:17:32 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:17:39 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:17:39 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:17:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:40 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:17:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:40 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:17:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:44 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:17:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:44 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:17:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:45 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:17:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:46 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:17:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:17:51 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 13:18:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:01 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:18:06 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:06 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:18:11 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:18:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:12 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:18:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:17 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:18:17 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:18:17 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:18:17 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:18:17 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:18:44 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:18:44 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:18:46 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:18:46 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:18:53 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:18:53 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:18:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:54 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:18:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:54 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:18:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:57 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:18:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:57 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:18:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:59 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:18:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:18:59 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:19:04 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:19:04 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:19:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:19:15 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:19:20 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:19:40 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[6]/div[7]/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51499}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ca1c06284771527fd5481cb5eed9da1
+2022-01-25 13:19:40 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:19:41 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:19:41 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:19:41 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:19:41 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:19:48 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:19:48 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:19:51 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:19:51 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:19:58 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:19:58 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:19:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:19:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:19:59 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:19:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:19:59 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:19:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:02 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:20:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:02 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:20:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:03 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:20:03 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:04 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:20:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:09 INFO  Log4j:26 - Current mode of toggle button is already with ON.
+2022-01-25 13:20:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:20:19 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:20:24 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:20:44 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[6]/div[7]/button (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51567}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9801e9276e118ef211b47d35a04605b0
+2022-01-25 13:20:44 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:20:45 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:20:45 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:20:45 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:20:45 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:20:52 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:20:52 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:20:55 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:20:55 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:21:02 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:21:02 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:21:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:02 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:21:03 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:03 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:21:03 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:06 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:21:06 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:06 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:21:06 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:07 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:21:08 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:08 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:21:13 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:13 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:21:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:21:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:28 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:21:33 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:21:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:34 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:21:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:21:39 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:21:39 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:21:39 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:21:39 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:21:39 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:27:05 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:27:05 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:27:07 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:27:07 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:27:15 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:27:15 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:27:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:16 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:16 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:27:16 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:16 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:27:16 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:19 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:27:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:19 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:27:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:21 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:27:21 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:22 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:27:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:27 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:27:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:37 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:27:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:42 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:27:47 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:27:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:48 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:27:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:27:52 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:27:52 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:27:52 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:27:53 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:27:53 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:28:18 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:28:18 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:28:20 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:28:20 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:28:27 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:28:27 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:28:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:28 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:28:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:28 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:28:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:30 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:28:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:31 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:28:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:32 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:28:33 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:28:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:38 INFO  Log4j:26 - Current mode of toggle button is already with ON.
+2022-01-25 13:28:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:48 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:28:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:53 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:28:58 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:28:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:28:59 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:29:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:03 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:29:03 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:29:03 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:29:03 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:29:03 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:29:26 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:29:26 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:29:29 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:29:29 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:29:35 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:29:36 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:29:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:36 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:29:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:37 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:29:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:39 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:29:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:39 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:29:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:29:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:41 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:29:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:46 INFO  Log4j:26 - Current mode of toggle button is ON & clicking on it to OFF.
+2022-01-25 13:29:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:29:57 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:30:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:30:02 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:30:07 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:30:07 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:30:08 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:30:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:30:12 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:30:12 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:30:12 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:30:12 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:30:12 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:31:02 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:31:02 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:31:05 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:31:05 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:31:11 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:31:11 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:31:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:12 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:31:12 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:13 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:31:13 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:16 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:31:16 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:16 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:31:16 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:17 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:31:17 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:18 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:31:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:23 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 13:31:33 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:31:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:38 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:31:43 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:31:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:44 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:31:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:31:48 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:31:48 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:31:48 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:31:48 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:31:48 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:32:01 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:32:01 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:32:04 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:32:04 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:32:10 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:32:10 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:32:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:11 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:32:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:11 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:32:11 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:14 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:32:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:14 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:32:14 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:15 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:32:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:16 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:32:21 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:21 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:32:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:31 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:32:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:36 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:32:41 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:32:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:42 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:32:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:32:47 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:32:47 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:32:47 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:32:47 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:32:47 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:33:07 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:33:07 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:33:10 INFO  Log4j:16 - Functionality_Rules Class Executing...
+2022-01-25 13:33:10 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:33:17 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:33:17 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:33:17 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:18 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:18 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:33:18 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:18 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:33:18 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:21 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:33:21 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:21 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:33:21 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-25 13:33:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[2]
+2022-01-25 13:33:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:28 INFO  Log4j:26 - Current mode of toggle button is already with ON.
+2022-01-25 13:33:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:39 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-25 13:33:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:44 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-25 13:33:49 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-25 13:33:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:50 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-25 13:33:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:33:54 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-25 13:33:54 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:33:54 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:33:54 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:33:54 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:36:49 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:36:49 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:36:52 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 13:36:52 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:36:59 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:37:00 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:37:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:00 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:37:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:01 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:37:01 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:03 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:37:03 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:04 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:37:04 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:05 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 13:37:05 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:05 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 13:37:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:10 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 13:37:15 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:15 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 13:37:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:20 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:37:21 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:37:22 FATAL Log4j:41 - element click intercepted: Element <a class="nav-link dropdown-toggle" href="#" id="changePasswordDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1495, 27). Other element would receive the click: <div id="menugroupform" class="modal show" role="dialog" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52224}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 23caddb75b7afb211a034382130714ef
+2022-01-25 13:37:22 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:37:22 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:37:22 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:37:22 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:37:22 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 13:41:27 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 13:41:27 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 13:41:29 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 13:41:29 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 13:41:36 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:41:36 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 13:41:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:37 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 13:41:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:37 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 13:41:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:40 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 13:41:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:40 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 13:41:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:42 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 13:41:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:42 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 13:41:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:47 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 13:41:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:52 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 13:41:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:53 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:41:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:53 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:41:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:53 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:41:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:53 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 13:41:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 13:41:54 FATAL Log4j:41 - element click intercepted: Element <a class="nav-link dropdown-toggle" href="#" id="changePasswordDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1495, 27). Other element would receive the click: <div id="menugroupform" class="modal show" role="dialog" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b02c387bd8443b36a1637c3a889feee
+2022-01-25 13:41:54 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 13:41:55 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 13:41:55 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 13:41:55 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 13:41:55 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 16:24:24 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 16:24:24 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 16:24:32 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 16:24:32 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 16:24:38 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 16:24:58 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input (tried for 20 second(s) with 500 milliseconds interval)
+2022-01-25 16:24:58 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 16:24:59 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 16:24:59 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 16:24:59 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 16:24:59 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 17:01:42 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 17:01:42 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 17:01:45 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 17:01:45 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 17:01:53 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 17:01:53 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 17:01:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:54 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 17:01:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:54 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 17:01:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:57 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 17:01:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:57 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 17:01:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:58 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 17:01:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:01:59 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 17:02:04 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:04 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 17:02:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:09 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 17:02:09 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:09 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 17:02:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:10 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 17:02:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:10 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 17:02:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:10 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 17:02:10 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:02:11 FATAL Log4j:41 - element click intercepted: Element <a class="nav-link dropdown-toggle" href="#" id="changePasswordDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1495, 27). Other element would receive the click: <div id="menugroupform" class="modal show" role="dialog" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55916}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7aff900fe1f246f71ee0e68f67defb04
+2022-01-25 17:02:11 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 17:02:12 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-25 17:02:12 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-25 17:02:12 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-25 17:02:12 INFO  Log4j:21 - Execution  Ending...
+2022-01-25 17:36:22 INFO  Log4j:16 - Execution Started Executing...
+2022-01-25 17:36:22 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-25 17:36:25 INFO  Log4j:16 - AddCategoryList Class Executing...
+2022-01-25 17:36:25 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-25 17:36:30 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 17:36:31 INFO  Log4j:26 - Element Found to perform action.
+2022-01-25 17:36:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:31 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-25 17:36:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:32 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-25 17:36:32 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-25 17:36:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:34 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-25 17:36:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:34 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[6]/a/span
+2022-01-25 17:36:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:35 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[1]/div/div/div[1]/div[1]/div[2]/button
+2022-01-25 17:36:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:40 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/div[2]/div/div/div[2]/form/ul/li[1]/button
+2022-01-25 17:36:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:45 INFO  Log4j:26 - Element found and entered data to : By.id: Name
+2022-01-25 17:36:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:45 INFO  Log4j:26 - Element found and entered data to : By.id: DisplayIndex
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:46 INFO  Log4j:26 - Element found and entered data to : By.id: Description
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:46 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:46 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:46 INFO  Log4j:26 - Current mode of toggle button is already with OFF.
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:46 INFO  Log4j:26 - Current mode of toggle button is OFF & clicking on it to ON.
+2022-01-25 17:36:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-25 17:36:48 FATAL Log4j:41 - element click intercepted: Element <a class="nav-link dropdown-toggle" href="#" id="changePasswordDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">...</a> is not clickable at point (1495, 27). Other element would receive the click: <div id="menugroupform" class="modal show" role="dialog" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58943}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 36c0302fc663676bcdb2293549cdfac5
+2022-01-25 17:36:48 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-25 17:36:48 INFO  Log4j:26 - -----------Backup Log4j file---------

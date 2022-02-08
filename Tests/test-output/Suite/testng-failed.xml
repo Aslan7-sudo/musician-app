@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Selenium-AutomationSuite(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Setup">
+        <methods>
+          <include name="StartExecution"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- Setup -->
+    </classes>
+  </test> <!-- Selenium-AutomationSuite(failed) -->
+</suite> <!-- Failed suite [Suite] -->

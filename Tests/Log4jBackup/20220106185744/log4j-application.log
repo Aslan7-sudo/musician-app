@@ -1,0 +1,332 @@
+2022-01-06 12:26:08 INFO  Log4j:16 - Execution Started Executing...
+2022-01-06 12:26:08 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-06 12:26:17 INFO  Log4j:16 - Preparation Timings Class Executing...
+2022-01-06 12:26:17 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-06 12:26:26 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-06 12:26:26 INFO  Log4j:26 - Element Found to perform action.
+2022-01-06 12:26:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:27 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-06 12:26:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:28 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-06 12:26:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:31 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-06 12:26:31 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:31 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-06 12:26:32 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-06 12:26:33 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[6]
+2022-01-06 12:26:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:34 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_0__Name
+2022-01-06 12:26:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:34 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_0__MinimummAmount
+2022-01-06 12:26:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:34 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_0__MaximumAmount
+2022-01-06 12:26:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:35 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_0__DeliveryTime
+2022-01-06 12:26:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:35 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_1__Name
+2022-01-06 12:26:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:35 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_1__MinimummAmount
+2022-01-06 12:26:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:35 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_1__MaximumAmount
+2022-01-06 12:26:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:36 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_1__DeliveryTime
+2022-01-06 12:26:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:36 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_2__Name
+2022-01-06 12:26:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:36 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_2__MinimummAmount
+2022-01-06 12:26:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:36 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_2__MaximumAmount
+2022-01-06 12:26:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:37 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_2__DeliveryTime
+2022-01-06 12:26:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:37 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_3__Name
+2022-01-06 12:26:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:37 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_3__MinimummAmount
+2022-01-06 12:26:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:37 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_3__MaximumAmount
+2022-01-06 12:26:37 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:38 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Monday_3__DeliveryTime
+2022-01-06 12:26:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:38 INFO  Log4j:26 - Element found and performed action on : By.id: headingTuesday
+2022-01-06 12:26:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:38 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_0__Name
+2022-01-06 12:26:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:38 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_0__MinimummAmount
+2022-01-06 12:26:38 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:38 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_0__MaximumAmount
+2022-01-06 12:26:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:39 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_0__DeliveryTime
+2022-01-06 12:26:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:39 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_1__Name
+2022-01-06 12:26:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:39 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_1__MinimummAmount
+2022-01-06 12:26:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:39 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_1__MaximumAmount
+2022-01-06 12:26:39 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:40 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_1__DeliveryTime
+2022-01-06 12:26:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:40 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_2__Name
+2022-01-06 12:26:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:40 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_2__MinimummAmount
+2022-01-06 12:26:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:40 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_2__MaximumAmount
+2022-01-06 12:26:40 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:40 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_2__DeliveryTime
+2022-01-06 12:26:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:41 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_3__Name
+2022-01-06 12:26:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:41 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_3__MinimummAmount
+2022-01-06 12:26:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:41 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_3__MaximumAmount
+2022-01-06 12:26:41 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:41 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Tuesday_3__DeliveryTime
+2022-01-06 12:26:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:42 INFO  Log4j:26 - Element found and performed action on : By.id: headingWednesday
+2022-01-06 12:26:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:42 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_0__Name
+2022-01-06 12:26:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:42 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_0__MinimummAmount
+2022-01-06 12:26:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:42 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_0__MaximumAmount
+2022-01-06 12:26:42 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:43 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_0__DeliveryTime
+2022-01-06 12:26:43 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:43 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_1__Name
+2022-01-06 12:26:43 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:43 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_1__MinimummAmount
+2022-01-06 12:26:43 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:43 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_1__MaximumAmount
+2022-01-06 12:26:43 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:43 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_1__DeliveryTime
+2022-01-06 12:26:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:44 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_2__Name
+2022-01-06 12:26:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:44 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_2__MinimummAmount
+2022-01-06 12:26:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:44 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_2__MaximumAmount
+2022-01-06 12:26:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:44 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_2__DeliveryTime
+2022-01-06 12:26:44 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:45 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_3__Name
+2022-01-06 12:26:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:45 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_3__MinimummAmount
+2022-01-06 12:26:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:45 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_3__MaximumAmount
+2022-01-06 12:26:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:45 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Wednesday_3__DeliveryTime
+2022-01-06 12:26:45 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:45 INFO  Log4j:26 - Element found and performed action on : By.id: headingThursday
+2022-01-06 12:26:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:46 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_0__Name
+2022-01-06 12:26:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:46 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_0__MinimummAmount
+2022-01-06 12:26:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:46 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_0__MaximumAmount
+2022-01-06 12:26:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:46 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_0__DeliveryTime
+2022-01-06 12:26:46 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:47 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_1__Name
+2022-01-06 12:26:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:47 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_1__MinimummAmount
+2022-01-06 12:26:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:47 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_1__MaximumAmount
+2022-01-06 12:26:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:47 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_1__DeliveryTime
+2022-01-06 12:26:47 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:47 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_2__Name
+2022-01-06 12:26:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:48 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_2__MinimummAmount
+2022-01-06 12:26:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:48 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_2__MaximumAmount
+2022-01-06 12:26:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:48 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_2__DeliveryTime
+2022-01-06 12:26:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:48 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_3__Name
+2022-01-06 12:26:48 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:49 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_3__MinimummAmount
+2022-01-06 12:26:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:49 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_3__MaximumAmount
+2022-01-06 12:26:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:49 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Thursday_3__DeliveryTime
+2022-01-06 12:26:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:49 INFO  Log4j:26 - Element found and performed action on : By.id: headingFriday
+2022-01-06 12:26:49 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:49 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_0__Name
+2022-01-06 12:26:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:50 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_0__MinimummAmount
+2022-01-06 12:26:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:50 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_0__MaximumAmount
+2022-01-06 12:26:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:50 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_0__DeliveryTime
+2022-01-06 12:26:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:50 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_1__Name
+2022-01-06 12:26:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:51 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_1__MinimummAmount
+2022-01-06 12:26:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:51 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_1__MaximumAmount
+2022-01-06 12:26:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:51 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_1__DeliveryTime
+2022-01-06 12:26:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:51 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_2__Name
+2022-01-06 12:26:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:51 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_2__MinimummAmount
+2022-01-06 12:26:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:52 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_2__MaximumAmount
+2022-01-06 12:26:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:52 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_2__DeliveryTime
+2022-01-06 12:26:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:52 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_3__Name
+2022-01-06 12:26:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:52 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_3__MinimummAmount
+2022-01-06 12:26:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:53 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_3__MaximumAmount
+2022-01-06 12:26:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:53 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Friday_3__DeliveryTime
+2022-01-06 12:26:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:53 INFO  Log4j:26 - Element found and performed action on : By.id: headingSaturday
+2022-01-06 12:26:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:53 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_0__Name
+2022-01-06 12:26:53 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:53 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_0__MinimummAmount
+2022-01-06 12:26:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:54 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_0__MaximumAmount
+2022-01-06 12:26:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:54 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_0__DeliveryTime
+2022-01-06 12:26:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:54 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_1__Name
+2022-01-06 12:26:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:54 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_1__MinimummAmount
+2022-01-06 12:26:54 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:55 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_1__MaximumAmount
+2022-01-06 12:26:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:55 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_1__DeliveryTime
+2022-01-06 12:26:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:55 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_2__Name
+2022-01-06 12:26:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:55 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_2__MinimummAmount
+2022-01-06 12:26:55 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:55 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_2__MaximumAmount
+2022-01-06 12:26:56 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:56 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_2__DeliveryTime
+2022-01-06 12:26:56 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:56 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_3__Name
+2022-01-06 12:26:56 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:56 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_3__MinimummAmount
+2022-01-06 12:26:56 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:56 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_3__MaximumAmount
+2022-01-06 12:26:56 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:57 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Saturday_3__DeliveryTime
+2022-01-06 12:26:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:57 INFO  Log4j:26 - Element found and performed action on : By.id: headingSunday
+2022-01-06 12:26:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:57 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_0__Name
+2022-01-06 12:26:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:57 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_0__MinimummAmount
+2022-01-06 12:26:57 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:57 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_0__MaximumAmount
+2022-01-06 12:26:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:58 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_0__DeliveryTime
+2022-01-06 12:26:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:58 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_1__Name
+2022-01-06 12:26:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:58 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_1__MinimummAmount
+2022-01-06 12:26:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:58 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_1__MaximumAmount
+2022-01-06 12:26:58 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:59 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_1__DeliveryTime
+2022-01-06 12:26:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:59 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_2__Name
+2022-01-06 12:26:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:59 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_2__MinimummAmount
+2022-01-06 12:26:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:59 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_2__MaximumAmount
+2022-01-06 12:26:59 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:26:59 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_2__DeliveryTime
+2022-01-06 12:27:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:00 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_3__Name
+2022-01-06 12:27:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:00 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_3__MinimummAmount
+2022-01-06 12:27:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:00 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_3__MaximumAmount
+2022-01-06 12:27:00 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:00 INFO  Log4j:26 - Element found and entered data to : By.id: DeliveryTimings_Sunday_3__DeliveryTime
+2022-01-06 12:27:02 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:03 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[2]/div[2]/div/button
+2022-01-06 12:27:08 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:08 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[6]/div[7]/button
+2022-01-06 12:27:13 INFO  Log4j:26 - Recording the passed execution into ExtentReport
+2022-01-06 12:27:13 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:14 INFO  Log4j:26 - Element found and performed action on : By.id: changePasswordDropdown
+2022-01-06 12:27:17 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 12:27:17 INFO  Log4j:26 - Element found and performed action on : By.xpath: //a[contains(text(),'Logout')]
+2022-01-06 12:27:17 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-06 12:27:18 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-06 12:27:18 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-06 12:27:18 INFO  Log4j:21 - Execution  Ending...
+2022-01-06 18:53:05 INFO  Log4j:16 - Execution Started Executing...
+2022-01-06 18:53:05 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-06 18:53:31 INFO  Log4j:16 - GuestUser_PlaceOrder Class Executing...
+2022-01-06 18:53:31 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/
+2022-01-06 18:53:40 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/div[1]/div[2]/div/div/div[1]/div/div/a
+2022-01-06 18:54:00 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.xpath: /html/body/div[1]/div[2]/div/div/div[1]/div/div/a (tried for 20 second(s) with 500 milliseconds interval)
+2022-01-06 18:54:00 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-06 18:54:02 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-06 18:54:02 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-06 18:54:03 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-06 18:54:03 INFO  Log4j:21 - Execution  Ending...
+2022-01-06 18:56:17 INFO  Log4j:16 - Execution Started Executing...
+2022-01-06 18:56:17 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-06 18:56:20 INFO  Log4j:16 - GuestUser_PlaceOrder Class Executing...
+2022-01-06 18:56:20 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/
+2022-01-06 18:56:24 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/div[1]/div[2]/div/div/div/a
+2022-01-06 18:56:24 INFO  Log4j:26 - Element Found to perform action.
+2022-01-06 18:56:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:56:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:56:28 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[1]/div[2]/div/div/div/a
+2022-01-06 18:56:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:56:29 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[1]/div[3]/form/div[1]/div[2]/ul/li[1]/a
+2022-01-06 18:56:39 FATAL Log4j:41 - no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[3]/form/div[2]/div/div[7]/div/div/div[1]/div/div/div[3]/button"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9827e67fd97c54838e6790b1ed3e877e
+*** Element info: {Using=xpath, value=/html/body/div[1]/div[3]/form/div[2]/div/div[7]/div/div/div[1]/div/div/div[3]/button}
+2022-01-06 18:56:39 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-06 18:56:39 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-06 18:56:39 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-06 18:56:39 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-06 18:56:39 INFO  Log4j:21 - Execution  Ending...
+2022-01-06 18:57:41 INFO  Log4j:16 - Execution Started Executing...
+2022-01-06 18:57:41 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-06 18:57:44 INFO  Log4j:16 - Customer_PlaceOrder Class Executing...
+2022-01-06 18:57:44 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/
+2022-01-06 18:57:49 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/div[1]/div[2]/div/div/div/a
+2022-01-06 18:57:49 INFO  Log4j:26 - Element Found to perform action.
+2022-01-06 18:57:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:50 INFO  Log4j:26 - Element found and performed action on : By.id: navbarDropdownMenuLink-55
+2022-01-06 18:57:50 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:51 INFO  Log4j:26 - Element found and performed action on : By.id: loginCaller
+2022-01-06 18:57:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:51 INFO  Log4j:26 - Element found and entered data to : By.xpath: /html/body/div[3]/div/div/div/div/div[1]/div[1]/form/div[2]/div/div[1]/input
+2022-01-06 18:57:51 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:51 INFO  Log4j:26 - Element found and entered data to : By.xpath: /html/body/div[3]/div/div/div/div/div[1]/div[1]/form/div[2]/div/div[2]/input
+2022-01-06 18:57:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:52 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/div[3]/div/div/div/div/div[1]/div[4]/button[2]
+2022-01-06 18:57:52 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-06 18:57:53 FATAL Log4j:41 - element click intercepted: Element <a class="btn btn-md orderNowButton" href="\menu/index">...</a> is not clickable at point (758, 454). Other element would receive the click: <div class="tab-pane fade active show" id="profile-classic" role="tabpanel" aria-labelledby="profile-tab-classic">...</div>
+  (Session info: chrome=96.0.4664.110)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90a3ec0bdc16966e320d243af469e1cf
+2022-01-06 18:57:53 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-06 18:57:54 INFO  Log4j:26 - -----------Backup Log4j file---------

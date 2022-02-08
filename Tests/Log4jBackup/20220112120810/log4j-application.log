@@ -1,0 +1,89 @@
+2022-01-12 12:07:07 INFO  Log4j:16 - Execution Started Executing...
+2022-01-12 12:07:07 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-12 12:07:17 INFO  Log4j:16 - General Settings Class Executing...
+2022-01-12 12:07:17 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-12 12:07:27 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-12 12:07:27 INFO  Log4j:26 - Element Found to perform action.
+2022-01-12 12:07:27 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:28 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-12 12:07:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:28 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-12 12:07:28 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:32 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-12 12:07:32 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:32 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-12 12:07:32 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-12 12:07:33 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:33 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[1]/div
+2022-01-12 12:07:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:34 INFO  Log4j:26 - Element found and entered data to : By.id: shopName
+2022-01-12 12:07:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:34 INFO  Log4j:26 - Element found and entered data to : By.id: emailAddress
+2022-01-12 12:07:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:34 INFO  Log4j:26 - Element found and entered data to : By.id: dialInCode
+2022-01-12 12:07:34 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:35 INFO  Log4j:26 - Element found and entered data to : By.id: phoneNumber
+2022-01-12 12:07:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:35 INFO  Log4j:26 - Element found and entered data to : By.id: communicationEmail
+2022-01-12 12:07:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:35 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:36 INFO  Log4j:26 - Element found and entered data to : By.id: tax
+2022-01-12 12:07:36 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:07:36 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: labelForAdditionalTax
+2022-01-12 12:07:56 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: labelForAdditionalTax (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63168}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32bbe5b39fb4141176ea03b6a1e3d15f
+2022-01-12 12:07:56 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-12 12:07:57 INFO  Log4j:26 - -----------Backup Log4j file---------
+2022-01-12 12:07:57 INFO  Log4j:26 - -----------Backup ExtentHTML Report file---------
+2022-01-12 12:07:57 INFO  Log4j:26 - -----------Sending the Email---------
+2022-01-12 12:07:57 INFO  Log4j:21 - Execution  Ending...
+2022-01-12 12:08:08 INFO  Log4j:16 - Execution Started Executing...
+2022-01-12 12:08:08 INFO  Log4j:26 - Launching Chrome Browser
+2022-01-12 12:08:10 INFO  Log4j:16 - General Settings Class Executing...
+2022-01-12 12:08:10 INFO  Log4j:26 - Launching the browser and Opening URL : http://test.a2zorderz.com/AppConsole/Login#!
+2022-01-12 12:08:19 INFO  Log4j:26 - Waiting for the specified Element : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-12 12:08:19 INFO  Log4j:26 - Element Found to perform action.
+2022-01-12 12:08:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:19 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:20 INFO  Log4j:26 - Element found and entered data to : By.id: userName
+2022-01-12 12:08:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:20 INFO  Log4j:26 - Element found and entered data to : By.id: password
+2022-01-12 12:08:20 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:22 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/div[1]/div/div/div/div/div/form/div/div[4]/input
+2022-01-12 12:08:22 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:22 INFO  Log4j:26 - Element found and performed action on : By.id: configurationDropdown
+2022-01-12 12:08:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/navbar/ul/li[5]/ul/li[2]/a/span
+2022-01-12 12:08:23 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:23 INFO  Log4j:26 - Element found and performed action on : By.xpath: /html/body/main/section/form/div/div[1]/ul/li[1]/div
+2022-01-12 12:08:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:24 INFO  Log4j:26 - Element found and entered data to : By.id: shopName
+2022-01-12 12:08:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:24 INFO  Log4j:26 - Element found and entered data to : By.id: emailAddress
+2022-01-12 12:08:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:24 INFO  Log4j:26 - Element found and entered data to : By.id: dialInCode
+2022-01-12 12:08:24 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:25 INFO  Log4j:26 - Element found and entered data to : By.id: phoneNumber
+2022-01-12 12:08:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:25 INFO  Log4j:26 - Element found and entered data to : By.id: communicationEmail
+2022-01-12 12:08:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:25 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:25 INFO  Log4j:26 - Element found and entered data to : By.id: tax
+2022-01-12 12:08:26 INFO  Log4j:26 - Updated PASS Status to the test steps in Excel
+2022-01-12 12:08:26 INFO  Log4j:26 - Waiting for the element to be perform click action on : By.id: labelForAdditionalTax
+2022-01-12 12:08:46 FATAL Log4j:41 - Expected condition failed: waiting for element to be clickable: By.id: labelForAdditionalTax (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'JNET91', ip: '172.16.1.91', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\SKOTHA~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63236}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a1c57078e138955d037107319fa7cbd3
+2022-01-12 12:08:46 INFO  Log4j:26 - Recording the Failed Execution into ExtentReport
+2022-01-12 12:08:46 INFO  Log4j:26 - -----------Backup Log4j file---------
